@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hallsptcd, Lecturer @ TU Dublin
+- 👋 Hi, I’m @hallsptcd, Assistant Lecturer @ TU Dublin
 - 👀 I’m interested in Data Analysis, Machine Learning, Astrophysics
-- 🌱 I’m currently learning Python, R, and SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Afficionado of Python, R, and SQL
+- 💞️ I’m looking to collaborate on real-world Data Science Projects
 - 📫 How to reach me: hallsp@tcd.ie
 
 <!---
