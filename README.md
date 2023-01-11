@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Analysis, Data Visualisation, Machine Learning, and Astrophysics
 - 🌱 Afficionado of Python, R, and SQL
 - 🌱 Experience with Haskell, Prolog, Java, C++, and Fortran90
+- 🌱 Some basic experience with HTML and CSS
 - 💞️ I’m looking to collaborate on real-world Data Science Projects
 - 📫 How to reach me: hallsp@tcd.ie
 
