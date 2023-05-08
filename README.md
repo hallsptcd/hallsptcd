@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hallsptcd, Analyst @ KPMG, Assistant Lecturer @ TU Dublin
+- 👋 Hi, I’m @hallsptcd: Analyst @ KPMG and Assistant Lecturer @ TU Dublin
 - 👀 I’m interested in Data Analysis, Data Visualisation, Machine Learning, and Astrophysics
 - 🌱 Afficionado of Python, R, and SQL
 - 🌱 Experience with Haskell, Prolog, Java, C++, and Fortran90
