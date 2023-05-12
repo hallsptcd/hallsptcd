@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Engineering, Data Science, Data Visualisation, Machine Learning, and Astrophysics
 - 👨🏻‍💻 Afficionado of Python, R, and SQL
 - 👨🏻‍💻 Experience with Haskell, Prolog, Java, C++, and Fortran90
-- 👨🏻‍💻 Some basic experience with HTML and CSS 
+- 👨🏻‍💻 Some basic experience with HTML and CSS
+- 👨🏻‍🎓 Qualifications: B.A. Physics & Astrophysics (TCD), M.Sc. Astrophysics (UCL), M.Sc. Data Science (TUD) 
 - 👨🏻‍🎓 Certifications: AZ-900 (Microsoft Azure Fundamentals)
 - 🔗 I’m looking to collaborate on real-world Data Science projects
 - 🌐 How to reach me: hallsp@tcd.ie
