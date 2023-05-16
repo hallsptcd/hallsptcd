@@ -1,6 +1,7 @@
 - ✌🏻 (ツ) Hi, I'm Simon (@hallsptcd): Analyst @ KPMG and Assistant Lecturer @ TU Dublin
 - 👀 I’m interested in Data Engineering, Data Science, Data Visualisation, Machine Learning, and Astrophysics
 - 👨🏻‍💻 Afficionado of Python, R, and SQL
+- 📉 BI Software: Tableau, PowerBI, Alteryx
 - 👨🏻‍💻 Experience with Haskell, Prolog, Java, C++, and Fortran90
 - 👨🏻‍💻 Some basic experience with HTML and CSS
 - 👨🏻‍🎓 Qualifications: B.A. Physics & Astrophysics (TCD), M.Sc. Astrophysics (UCL), M.Sc. Data Science (TUD) 
