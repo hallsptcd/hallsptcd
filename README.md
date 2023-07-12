@@ -4,8 +4,8 @@
 - 📉 BI Software: Tableau, PowerBI, Alteryx
 - 👨🏻‍💻 Experience with Haskell, Prolog, Java, C++, and Fortran90
 - 👨🏻‍💻 Some basic experience with HTML and CSS
-- 👨🏻‍🎓 Qualifications: B.A. Physics & Astrophysics (TCD), M.Sc. Astrophysics (UCL), M.Sc. Data Science (TUD) 
-- 👨🏻‍🎓 Certifications: AZ-900 (Microsoft Azure Fundamentals), DP-900 (Azure Data Fundamentals), ESG Champion
+- 👨🏻‍🎓 Qualifications: B.A. Physics & Astrophysics (TCD), M.Sc. Astrophysics (UCL), M.A. History (UCD), M.Sc. Data Science (TUD) 
+- 👨🏻‍🎓 Certifications: AZ-900 (Microsoft Azure Fundamentals), DP-900 (Azure Data Fundamentals), ITS-201 (IT Specialist in Databases), ESG Champion
 - 🔗 I’m looking to collaborate on real-world Data Science projects
 - 🌐 How to reach me: hallsp@tcd.ie
 
