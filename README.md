@@ -5,7 +5,7 @@
 - 👨🏻‍💻 Experience with Haskell, Prolog, Java, C++, and Fortran90
 - 👨🏻‍💻 Some basic experience with HTML and CSS
 - 👨🏻‍🎓 Qualifications: B.A. Physics & Astrophysics (TCD), M.Sc. Astrophysics (UCL), M.A. History (UCD), M.Sc. Data Science (TUD) 
-- 👨🏻‍🎓 Certifications: AZ-900 (Microsoft Azure Fundamentals), DP-900 (Azure Data Fundamentals), AI-900 (Azure AI Fundamentals), ITS-201 (IT Specialist in Databases), MO-201 (Excel Expert), and ESG Champion
+- 👨🏻‍🎓 Certifications: AZ-900 (Microsoft Azure Fundamentals), DP-900 (Azure Data Fundamentals), AI-900 (Azure AI Fundamentals), ITS-201 (IT Specialist in Databases), MO-201 (Excel Expert), PL-300 (Power BI Data Analyst Associate), and ESG Champion
 - 🔗 I’m looking to collaborate on real-world Data Science projects
 - 🌐 How to reach me: hallsp@tcd.ie
 
