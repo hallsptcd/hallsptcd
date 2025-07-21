@@ -7,6 +7,7 @@
 - 👨🏻‍🎓 Qualifications: B.A. Physics & Astrophysics (TCD), M.Sc. Astrophysics (UCL), M.A. History (UCD), M.Sc. Data Science (TUD) 
 - 👨🏻‍🎓 Certifications: AZ-900 (Microsoft Azure Fundamentals), DP-900 (Azure Data Fundamentals), AI-900 (Azure AI Fundamentals), PL-900 (Power Platform Fundamentals), ITS-201 (IT Specialist in Databases), MO-201 (Excel Expert), PL-300 (Power BI Data Analyst Associate), and AgilePM Foundation (APMG).
 - 🔗 I’m looking to collaborate on real-world Data Science projects
+- 📉 Creator of the UCF Crime Images (with Reference Captions) [dataset]([url](https://www.kaggle.com/datasets/simonphall/ucf-crime-images/data?select=image_category_captions.csv)), extracted from UCF Crime Dataset, on Kaggle.
 - 🌐 How to reach me: hallsp@tcd.ie
 
 Hello there! I'm Simon, a Data Consultant based in Dublin, Ireland. I have a passion for all things data-related, including Data Engineering, Data Science, Data Visualisation, and Machine Learning.
