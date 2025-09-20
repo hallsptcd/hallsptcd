@@ -12,7 +12,7 @@
 
 Hello there! I'm Simon, a Data Consultant based in Dublin, Ireland. I have a passion for all things data-related, including Data Engineering, Data Science, Data Visualisation, and Machine Learning.
 
-As a Data Scientist, I have worked on several interesting projects, including a text classification task involving Deep Learning and a recommender system for a popular clothing store. I am particularly interested in Machine Learning projects and I'm always looking for new challenges and opportunities. Please feel free to reach out to me if you have any questions or if you'd like to collaborate.
+As a Data Scientist, I have worked on several interesting projects, including evaluation of automated image captions, a complex pipeline maintaining the core data for a large-scale infrastructure remediation programme, text classification task involving Deep Learning and a recommender system for a popular clothing store. I am particularly interested in Machine Learning projects and I'm always looking for new challenges and opportunities. Please feel free to reach out to me if you have any questions or if you'd like to collaborate.
 
 <!---
 hallsptcd/hallsptcd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
