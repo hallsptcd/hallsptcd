@@ -1,4 +1,4 @@
-- ✌🏻 (ツ) Hi, I'm Simon (@hallsptcd): Consultant @ KPMG and Assistant Lecturer @ TU Dublin
+- ✌🏻 (ツ) Hi, I'm Simon (@hallsptcd): Senior Consultant @ KPMG and Assistant Lecturer @ TU Dublin
 - 👀 I’m interested in Data Engineering, Data Science, Data Visualisation, and Astrophysics
 - 👨🏻‍💻 Afficionado of Python, R, and SQL
 - 📉 BI Software: Tableau, PowerBI, Alteryx
